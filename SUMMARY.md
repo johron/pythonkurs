@@ -1,7 +1,9 @@
 # Table of contents
 
 * [Introduksjon](README.md)
-
-## Group 1
-
-* [Page 1](group-1/page-1.md)
+* [Installer Python](installer-python.md)
+* [Velg en kode-editor](velg-en-kode-editor/README.md)
+  * [Thonny](velg-en-kode-editor/thonny.md)
+  * [Visual Studio Code](velg-en-kode-editor/visual-studio-code.md)
+  * [PyCharm](velg-en-kode-editor/pycharm.md)
+* [Ditt første program](ditt-forste-program.md)
