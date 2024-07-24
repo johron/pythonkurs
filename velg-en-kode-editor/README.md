@@ -9,3 +9,5 @@ Det finnes mange programmer som kan brukes til å kode med, men dette kurset vil
 * Thonny
 * Visual Studio Code
 * PyCharm
+
+Jeg anbefaler personlig Visual Studio Code

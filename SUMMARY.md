@@ -7,3 +7,6 @@
   * [Visual Studio Code](velg-en-kode-editor/visual-studio-code.md)
   * [PyCharm](velg-en-kode-editor/pycharm.md)
 * [Ditt første program](ditt-forste-program.md)
+* [Det grunnleggende](det-grunnleggende/README.md)
+  * [Utskrift](det-grunnleggende/utskrift.md)
+  * [Tekststrenger](det-grunnleggende/tekststrenger.md)
