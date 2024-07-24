@@ -10,3 +10,5 @@
 * [Det grunnleggende](det-grunnleggende/README.md)
   * [Utskrift](det-grunnleggende/utskrift.md)
   * [Tekststrenger](det-grunnleggende/tekststrenger.md)
+  * [Tall](det-grunnleggende/tall.md)
+  * [Kommentarer](det-grunnleggende/kommentarer.md)
