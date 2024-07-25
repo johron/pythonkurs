@@ -13,4 +13,3 @@
   * [Tall](det-grunnleggende/tall.md)
   * [Kommentarer](det-grunnleggende/kommentarer.md)
 * [Variabler](variabler.md)
-* [Lister](lister.md)
