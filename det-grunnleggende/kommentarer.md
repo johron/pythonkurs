@@ -1,3 +1,6 @@
 # Kommentarer
 
-\#
+```python
+# en kommentar
+```
+
